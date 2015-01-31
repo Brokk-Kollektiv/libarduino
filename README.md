@@ -1,5 +1,10 @@
-Arduino
+libarduino
 ========
+
+* libarduino is a trial to obtain a standalone AVR library for the known
+hardware abstractions from the original Arduino project.
+Our goal of this experiment is to use it independently of any IDE.
+So one can simply install it on his machine and use it at will.
 
 * Arduino is an open-source physical computing platform based on a simple i/o
 board and a development environment that implements the Processing/Wiring
@@ -26,9 +31,7 @@ https://groups.google.com/a/arduino.cc/forum/#!forum/developers
 
 Installation
 ------------
-Detailed instructions are in reference/Guide_Windows.html and
-reference/Guide_MacOSX.html.  For Linux, see the Arduino playground:
-http://www.arduino.cc/playground/Learning/Linux
+Not yet available...
 
 Credits
 --------
@@ -39,6 +42,3 @@ Gianluca Martino, Daniela Antonietti, and David A. Mellis.
 
 Arduino uses the [GNU avr-gcc toolchain](http://gcc.gnu.org/wiki/avr-gcc), [avrdude](http://www.nongnu.org/avrdude/), [avr-libc](http://www.nongnu.org/avr-libc/), and code from
 [Processing](http://www.processing.org) and [Wiring](http://wiring.org.co).
-
-Icon and about image designed by [ToDo](http://www.todo.to.it/)
-
