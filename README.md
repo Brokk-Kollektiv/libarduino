@@ -5,6 +5,7 @@ libarduino
 hardware abstractions from the original Arduino project.
 Our goal of this experiment is to use it independently of any IDE.
 So one can simply install it on his machine and use it at will.
+NOTE: This project is currently far from being functional as specifyed!
 
 * Arduino is an open-source physical computing platform based on a simple i/o
 board and a development environment that implements the Processing/Wiring
